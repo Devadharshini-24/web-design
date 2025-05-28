@@ -1,11 +1,13 @@
 body{
     font-family: Arial, sans-serif;
-    margin: 0;
     padding: 0;
+    background-color: #eca6dd; /* Replace with any color you like */
+
 }
 header{
-    background-color: #333;
-    color: #fff;
+    background-color: #a12db8;
+    color: #ffffff;
+    
     padding: 1em;
     text-align: center;
 }
@@ -33,9 +35,13 @@ main{
     padding: 2em;
 }
 footer{
-    background-color: #333;
+    background-color: #a12db8;
     color: #fff;
     padding: 1em;
     text-align: center;
     clear: both;
+}
+img{
+    width: 1300px;
+    height: 300px;
 }
